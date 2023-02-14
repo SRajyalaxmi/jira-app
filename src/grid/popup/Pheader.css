@@ -1,0 +1,24 @@
+.firstdiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.pop{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.leftright{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 2rem;
+}
+
+.fleft{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.pop{
+   
+}

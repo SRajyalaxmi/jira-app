@@ -1,0 +1,58 @@
+.body{
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    gap:2rem;
+    justify-content: space-between;
+    height: 60px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.size{
+    font-size: 5rem;
+}
+.button{
+    display: flex;
+    border-style: none;
+    align-items: center;
+}
+
+.search-container input {
+    padding-left: 1.5rem;
+    
+    
+}
+
+.search-container {
+    position: relative;
+}
+
+.search-icon{
+    position: absolute;
+    left: 0;
+    color: gray;
+}
+
+.more-icon{
+    color: gray
+}
+.bgcolor{
+    color: white;
+    background-color: blue;
+    border-style: none;
+    padding: 6px;
+    border-radius: 5px;
+}
+.havatar{
+    color: orange;
+}
+.notify{
+   color: blueviolet;
+}
+.setting{
+    color: brown;
+}
+.help{
+    color: lawngreen;
+}

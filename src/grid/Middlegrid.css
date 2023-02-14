@@ -1,0 +1,8 @@
+.flex{
+    display: flex;
+}
+.gap{
+    display: flex;
+    gap: 12rem;
+    padding: 2rem;    
+}
